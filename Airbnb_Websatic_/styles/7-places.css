@@ -1,0 +1,28 @@
+.places-title {
+    padding-left: 10px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.article-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: flex-start; */
+    justify-content: center;
+}
+
+.place-item {
+    width: 390px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 30px;
+    /* overflow: hidden; */
+
+}
+
+.m-0 {
+    margin: 0;
+}
